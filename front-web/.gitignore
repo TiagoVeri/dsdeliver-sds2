@@ -24,3 +24,5 @@ yarn-error.log*
 
 #cache local que não precisa ser versionado
 .eslintcache
+
+.env
